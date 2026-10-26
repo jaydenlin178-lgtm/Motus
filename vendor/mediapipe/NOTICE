@@ -1,0 +1,10 @@
+MediaPipe Tasks Vision 1.1.1
+Copyright Google LLC
+
+These files are copied unmodified from the npm package @mediapipe/tasks-vision
+version 1.1.1 and are distributed under the Apache License, Version 2.0, a copy
+of which is in the LICENSE file in this folder. The only change is the file name
+of vision_bundle.js, which the package ships as vision_bundle.mjs.
+
+The hand and face landmark models are not included. The app downloads them at
+runtime from storage.googleapis.com.
